@@ -1,0 +1,141 @@
+Nipun Samarakoon
+SOFTWARE ENGINEER
+
+PROFESSIONAL SUMMARY
+
+Versatile Software Engineer with experience in full-stack development using Java, React, Angular, Spring Boot, and mobile frameworks like React Native and Flutter. Proven track record in delivering scalable, high-performance applications in Agile environments. Skilled in integrating AI tools (e.g., ChatGPT, Copilot), writing clean, testable code, and optimizing user experiences through smart design and performance tuning.
+
+I am passionate about designing digital experiences that are both visually stunning and intuitive, and always strive to create designs that delight and engage users.
+
+CONTACT INFORMATION
+
+Email: nipunsanjulasamarakoon@gmail.com
+LinkedIn: https://www.linkedin.com/in/nipun-samarakoon-bb812b203/
+Portfolio: https://nipun0bugs.github.io/Nipun-Samarakoon
+GitHub: https://github.com/NIPUN0BUGS
+Phone: (+94) 76-1011-631
+Location: Kandy, Gampola, LK
+
+EDUCATION
+
+Bachelor of Science in Software Engineering
+University of London Metropolitan, London, UK (2022/09)
+GPA: 3.4/4.0 (Cum Laude, 2nd Upper Class Honors)
+
+BTEC HND in Software Engineering (Pearson)
+Esoft Metro Campus, Sri Lanka (2019/01 – 2021/01)
+Honors: Merit Grade
+
+Diploma in Computing & Programming
+SLIIT Academy, Sri Lanka (2017/01 – 2017/05)
+Honors: B++ Grade
+
+Diploma in English Language
+British Council - Kandy (2018/08 – 2018/12)
+
+PROFESSIONAL EXPERIENCE
+
+FREELANCER SOFTWARE ENGINEER
+C SOFTWARE SOLUTIONS (Sep 2024 – Present, Part Time)
+• Developed web applications for clients using PHP, HTML, JavaScript, SQL, and cPanel technologies
+• Built and enhanced applications in client-server environments, adding new features and improving functionality
+• Conducted user requirements analysis to design, program, and deliver technical support for system enhancements
+• Customized user interfaces using JavaScript, HTML, and CSS to improve usability and visual appeal
+• Utilized Git, GitHub, and Bootstrap for version control and responsive design
+• Project: https://mygraduation.lk/
+
+SOFTWARE ENGINEER
+IT SOLUTIONS IN GIPPSLAND (Sep 2024 – Present)
+• Developed scalable web applications using Python, Next.js, React.js, and Angular, tailored to client-specific requirements
+• Enhanced and maintained systems in client-server environments, adding new features and optimizing performance across the stack
+• Conducted detailed user requirements analysis and provided technical support for system enhancements and maintenance
+• Designed responsive and intuitive user interfaces using JavaScript, HTML, and CSS, with attention to accessibility and UX best practices
+• Implemented advanced features to improve usability and functionality:
+  - Auto-focus behavior on search input elements to enhance search flow
+  - Integrated a barcode reader system for fast and accurate data input and item identification
+• Utilized version control and collaboration tools (Git, GitHub, Bitbucket) and worked with the Frappe framework for full-stack integration
+• Played a key role in building a micro-frontend architecture, enabling independent module development and easier scalability in Agile teams
+
+JUNIOR SOFTWARE ENGINEER
+HCL TECH, LK (Feb 2022 – Sep 2023)
+• Rendered solid technical expertise in Software Development Life Cycle and core Java technologies to develop applications based on specific client requirements
+• Created interactive UIs that surpassed client objectives and improved user experience
+• Used Java/J2EE technologies to develop web applications for client server environments and add functionalities to existing applications
+• Revamped various Java applications developed with Spring, Hibernate, and older J2EE frameworks
+• Conducted user requirements analysis to design and program applications and deliver support for system enhancement
+• Played a pivotal role as part of an agile scrum team accountable for developing new applications using Spring framework backend
+• Consulted with customers on project status and technical concerns
+• Performed unit testing of applications by developing and applying test cases
+• Developed highly interactive and customized UIs using JavaScript, HTML, JSP, and CSS to improve functionality of web applications
+• Used version control tools - Git, GitHub, Bitbucket
+
+TUTOR
+ESOFT PVT.LTD, LK (Sep 2020 – Sep 2021)
+• Conducted one-on-one and group tutoring sessions for students in programming languages and subjects
+• Assisted students in understanding fundamental programming concepts and solving coding problems
+• Developed tailored lesson plans to meet individual student needs and learning styles
+• Provided guidance on software development projects, helping students apply theoretical knowledge to practical applications
+
+TECHNICAL SKILLS
+
+Programming Languages:
+Java, TypeScript, JavaScript, HTML, CSS, XML, SQL, Python, PHP
+
+Frameworks:
+React, Angular, Next.js, Node.js, Java Spring Boot, Express.js, Frappe, Flutter, React Native
+
+Technologies and Libraries:
+ESLint, Bootstrap, Angular Material, Redux, Axios, Jest, Jasmine, React Testing Library, Postman, CPanel
+
+Databases:
+MySQL, MongoDB, Firebase, PostgreSQL, SQL commands
+
+CI/CD & DevOps Tools:
+Bitbucket Pipelines, GitHub Actions, GitLab CI, Docker (basic), Git, GitHub, Bitbucket
+
+Build & Package Tools:
+NPM, Webpack, Gradle, Maven, Yarn
+
+AI & Automation Tools:
+OpenAI (ChatGPT API), GitHub Copilot, AI-based code generation & testing assistance, Prompt engineering basics
+
+Testing & QA:
+Jest, Jasmine, Mocha, React Testing Library, Postman, Swagger
+
+Mobile Development:
+React Native (Android/iOS), Flutter
+
+Project Management & Agile Tools:
+Jira, Trello, Confluence, Scrum, Kanban
+
+EXPERIENCE SUMMARY
+
+• Experience in developing web and mobile applications using JavaScript, TypeScript, React, and Angular across multiple projects
+• Proficient in React and Angular development, with a strong track record of delivering responsive and scalable solutions
+• Skilled in writing unit tests using Jest and Jasmine, and integrating API testing with Postman to ensure robust and reliable software
+• Proven ability to develop complex web applications collaboratively with both remote and on-site teams, including UI/UX designers
+• Hands-on experience with version control tools – Git, GitHub, and Bitbucket
+• Familiar with build management tools such as NPM, Gradle, Maven, and Webpack
+• Strong knowledge of Object-Oriented Programming (OOP), SOLID principles, and design patterns for maintainable and efficient code
+• Experience in mobile app development using React Native and Flutter for both Android and iOS platforms
+• Proficient in Agile methodologies (Scrum, Kanban) and efficient use of Jira for project tracking and team collaboration
+• Capable of leveraging AI prompting techniques (e.g., with ChatGPT, Copilot, etc.) to automate workflows, solve problems faster, and improve development productivity
+• Implemented AI-powered features in projects to enhance functionality, user engagement, and decision-making efficiency
+
+REFERENCES
+
+MS. Prisca Benjamin
+Executive – HR
+HCL technologies (Pvt) Ltd, Colombo
+Phone: +94770189737
+Email: Prisca.benjamin@hcl.com
+
+Mrs. Dilshani Ranasinghe
+Program Coordinator
+ESOFT Metro Campus (Pvt) Ltd, Kandy
+Phone: +94713489671
+Email: dilshani.r@esoft.lk / dilshaniranasinghe99@gmail.com
+
+I assure you that the above information furnished by me is true and accurate according to the best of my knowledge.
+
+Nipun Samarakoon

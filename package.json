@@ -1,0 +1,43 @@
+{
+  "name": "mcp-cv-chat-playground",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Model Context Protocol CV Chat Playground with file upload and email functionality",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "deploy": "node deploy.js",
+    "test-api": "node test-deployment.js",
+    "test-local": "npm run dev & sleep 5 && node test-deployment.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "next": "14.0.0",
+    "nodemailer": "^6.10.1",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/nodemailer": "^7.0.1",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.0",
+    "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "cv",
+    "resume",
+    "chat",
+    "nextjs",
+    "typescript"
+  ]
+}
