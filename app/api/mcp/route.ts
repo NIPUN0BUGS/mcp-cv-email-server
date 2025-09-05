@@ -1,5 +1,10 @@
 import { NextRequest, NextResponse } from 'next/server'
 import path from 'path'
+import { createServer } from 'http'
+import { parse } from 'url'
+
+// MCP Server configuration
+const MCP_PORT = process.env.MCP_PORT || 3001
 
 // Simple in-memory CV storage for the demo
 let cvData: any = null
@@ -104,7 +109,7 @@ async function handleUploadCV(args: any) {
     } else {
       // Check if content looks like binary data (common with PDF/DOC files)
       const isBinary = content.includes('\0') || content.includes('�') || 
-                      (content.length > 100 && content.split('').filter(c => c.charCodeAt(0) > 127).length > content.length * 0.3)
+                      (content.length > 100 && content.split('').filter((c: string) => c.charCodeAt(0) > 127).length > content.length * 0.3)
       
       if (isBinary) {
         return NextResponse.json({
